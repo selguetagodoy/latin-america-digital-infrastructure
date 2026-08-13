@@ -1,0 +1,19 @@
+country,city,ixp_name,operator,peeringdb_id,status,source_ref,verified_on
+Argentina,Argentina,AR-IX Cabase - Argentina,CABASE,3788,listed,peeringdb:ix/3788,2026-08-13
+Argentina,Buenos Aires,PIT - Argentina - Buenos Aires,PIT,4150,listed,peeringdb:ix/4150,2026-08-13
+Brazil,Sao Paulo,IX.br (PTT.br) Sao Paulo,NIC.br,171,listed,peeringdb:ix/171,2026-08-13
+Brazil,Sao Paulo,Equinix Sao Paulo,Equinix,119,listed,peeringdb:ix/119,2026-08-13
+Brazil,Sao Paulo,DE-CIX Sao Paulo,DE-CIX,4642,listed,peeringdb:ix/4642,2026-08-13
+Chile,Santiago,PIT Santiago - PIT Chile,PIT Chile,1514,listed,peeringdb:ix/1514,2026-08-13
+Chile,Santiago,Chile IX by PIT.net,PIT,4820,listed,peeringdb:ix/4820,2026-08-13
+Chile,Santiago,SCL-IX Chile,SCL-IX,1634,listed,peeringdb:ix/1634,2026-08-13
+Chile,Santiago,PIT entel,Entel Chile,2176,listed,peeringdb:ix/2176,2026-08-13
+Colombia,Bogota,Equinix Bogota,Equinix,2289,listed,peeringdb:ix/2289,2026-08-13
+Colombia,Bogota,PIT - Colombia - Bogota,PIT,3880,listed,peeringdb:ix/3880,2026-08-13
+Mexico,Queretaro,PIT MX,PIT Chile,4051,listed,peeringdb:ix/4051,2026-08-13
+Mexico,Queretaro,IXP.MX - Queretaro,CITI,3261,listed,peeringdb:ix/3261,2026-08-13
+Mexico,Mexico City / Queretaro,DE-CIX Mexico,DE-CIX,4525,listed,peeringdb:ix/4525,2026-08-13
+Peru,Lima,PIT - Peru - Lima,PIT,2680,listed,peeringdb:ix/2680,2026-08-13
+Peru,Lima,JumboIX Peru,IPTP Networks,3312,listed,peeringdb:ix/3312,2026-08-13
+Peru,Lima,BGP.Exchange - Lima,BGP.Exchange,3934,listed,peeringdb:ix/3934,2026-08-13
+Peru,Lima / Huancayo / Huanuco,IX ANDESPARK SAC,IX AndeSpark Peru,4447,listed,peeringdb:ix/4447,2026-08-13
