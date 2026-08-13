@@ -1,0 +1,15 @@
+cable_name,status,rfs,length_km,owners,latin_america_countries,source_ref,verified_on
+Firmina,in_service,2025,14517,Google,Argentina; Brazil; Uruguay,telegeography:firmina,2026-08-13
+EllaLink,in_service,2021,6200,EllaLink,Brazil; French Guiana,telegeography:ellalink,2026-08-13
+South America-1 (SAm-1),in_service,2001,25000,Telxius,Argentina; Brazil; Chile; Colombia; Dominican Republic; Ecuador; Guatemala; Peru,telegeography:south-america-1,2026-08-13
+South American Crossing (SAC),in_service,2000,20000,Cirion Technologies; Sparkle,Argentina; Brazil; Chile; Colombia; Panama; Peru; Venezuela,telegeography:south-american-crossing,2026-08-13
+Pacific Caribbean Cable System (PCCS),in_service,2015,6163,Liberty Networks; SETAR; Telconet; Telxius; UTS,Colombia; Ecuador; Panama,telegeography:pccs,2026-08-13
+ARCOS,in_service,2001,8704,Consortium,Belize; Colombia; Costa Rica; Dominican Republic; Guatemala; Honduras; Mexico; Nicaragua; Panama; Venezuela,telegeography:arcos,2026-08-13
+BRUSA,in_service,2018,11000,Telxius,Brazil,telegeography:brusa,2026-08-13
+Monet,in_service,2017,10556,Algar Telecom; Angola Cables; Antel Uruguay; Google,Brazil,telegeography:monet,2026-08-13
+Tannat,in_service,2018,2000,Antel Uruguay; Google,Argentina; Brazil; Uruguay,telegeography:tannat,2026-08-13
+Malbec,in_service,2021,2880,Meta; V.tal,Argentina; Brazil,telegeography:malbec,2026-08-13
+Prat,in_service,2020,3500,Grupo Gtd,Chile,telegeography:prat,2026-08-13
+Pan-American Crossing (PAC),in_service,2000,10000,Cirion Technologies,Costa Rica; Mexico; Panama,telegeography:pan-american-crossing,2026-08-13
+TAM-1,planned,2026 Q4,7200,Trans Americas Fiber,Colombia; Costa Rica; Guatemala; Honduras; Mexico; Panama,telegeography:tam-1,2026-08-13
+MANTA,planned,2028 Q1,5600,Gold Data; Liberty Networks; Sparkle,Colombia; Mexico; Panama,telegeography:manta,2026-08-13
