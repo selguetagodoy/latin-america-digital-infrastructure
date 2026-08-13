@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Latin America Digital Infrastructure"
+type: dataset
+authors:
+  - family-names: "Elgueta Godoy"
+    given-names: "Sebastian"
+repository-code: "https://github.com/selguetagodoy/latin-america-digital-infrastructure"
+license: MIT
+date-released: 2026-08-13
