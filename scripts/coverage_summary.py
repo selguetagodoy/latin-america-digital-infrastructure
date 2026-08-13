@@ -7,9 +7,11 @@ DATA = ROOT / "data"
 
 FILES = {
     "countries": "countries.csv",
+    "regional_benchmark_2026": "regional_benchmark_2026.csv",
     "cloud_regions": "cloud_regions.csv",
     "ixps": "ixps.csv",
     "submarine_cables": "submarine_cables.csv",
+    "operator_country_presence": "operator_country_presence.csv",
 }
 
 for label, filename in FILES.items():
