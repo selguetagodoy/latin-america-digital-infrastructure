@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Observatorio público y reproducible de infraestructura digital en América Latina." />
+  <title>Latin America Digital Infrastructure Observatory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="shell hero-grid">
+      <div>
+        <div class="eyebrow">OPEN DATA · LATIN AMERICA · 2026</div>
+        <h1>Latin America<br><span>Digital Infrastructure</span></h1>
+        <p class="lead">Observatorio comparado de data centers, cloud, interconexión, energía y condiciones institucionales en ocho mercados latinoamericanos.</p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#compare">Comparar países</a>
+          <a class="btn" href="https://github.com/selguetagodoy/latin-america-digital-infrastructure">Ver repositorio</a>
+        </div>
+      </div>
+      <div class="hero-note">
+        <div class="note-label">Corte de datos</div>
+        <div class="note-big" id="cutoff">2026-08-13</div>
+        <p>Los vacíos se mantienen como datos faltantes. No se imputan capacidades ni se mezclan regiones cloud, IXPs, cables y data centers.</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="kpi-grid" aria-label="Indicadores regionales">
+      <article class="kpi"><span>Mercados</span><strong id="kpi-markets">—</strong><small>benchmark 2026</small></article>
+      <article class="kpi"><span>Regiones cloud</span><strong id="kpi-cloud">—</strong><small>activas</small></article>
+      <article class="kpi"><span>IXPs</span><strong id="kpi-ixp">—</strong><small>activos</small></article>
+      <article class="kpi"><span>MW comparables</span><strong id="kpi-mw">—</strong><small>4 mercados con fuente homogénea</small></article>
+    </section>
+
+    <section class="section intro">
+      <div>
+        <div class="section-label">LECTURA REGIONAL</div>
+        <h2>La infraestructura digital latinoamericana no tiene un único líder.</h2>
+      </div>
+      <p>Brasil domina por escala. México destaca por expansión hyperscale. Chile combina cloud, interconexión e institucionalidad. Colombia sigue siendo un mercado de menor escala pero con espacio de maduración. Perú, Panamá, Costa Rica y Argentina muestran perfiles distintos que una sola clasificación escondería.</p>
+    </section>
+
+    <section class="section" id="compare">
+      <div class="section-head">
+        <div>
+          <div class="section-label">COMPARADOR</div>
+          <h2>Dos países, una misma métrica</h2>
+        </div>
+        <div class="controls">
+          <label>País A<select id="country-a"></select></label>
+          <label>País B<select id="country-b"></select></label>
+        </div>
+      </div>
+      <div id="compare-grid" class="compare-grid"></div>
+    </section>
+
+    <section class="section chart-section">
+      <div class="section-head">
+        <div>
+          <div class="section-label">ESCALA DE MERCADO</div>
+          <h2>Inventario operativo de data centers</h2>
+        </div>
+        <div class="unit">MW · fuente regional comparable</div>
+      </div>
+      <div id="dc-bars" class="bar-chart" role="img" aria-label="Inventario operativo de data centers por mercado"></div>
+      <p class="caption">Solo se muestran mercados con una metodología regional homogénea. La ausencia de barra no significa ausencia de infraestructura.</p>
+    </section>
+
+    <section class="split">
+      <section class="section mini-panel">
+        <div class="section-label">CLOUD + INTERCONEXIÓN</div>
+        <h2>Profundidad del ecosistema</h2>
+        <div id="ecosystem-plot" class="scatter" role="img" aria-label="Regiones cloud e IXPs por país"></div>
+        <p class="caption">Eje horizontal: IXPs activos. Eje vertical: regiones cloud activas.</p>
+      </section>
+
+      <section class="section mini-panel">
+        <div class="section-label">ENERGÍA</div>
+        <h2>Renovables e intensidad de carbono</h2>
+        <div id="energy-list" class="energy-list"></div>
+        <p class="caption">La intensidad de carbono se muestra solo cuando existe dato retenido.</p>
+      </section>
+    </section>
+
+    <section class="section country-section">
+      <div class="section-head">
+        <div>
+          <div class="section-label">FICHA PAÍS</div>
+          <h2 id="country-title">Chile</h2>
+        </div>
+        <label class="country-picker">Mercado<select id="country-detail"></select></label>
+      </div>
+      <div id="country-profile" class="profile-grid"></div>
+    </section>
+
+    <section class="section table-section">
+      <div class="section-head">
+        <div>
+          <div class="section-label">MATRIZ REGIONAL</div>
+          <h2>Benchmark 2026</h2>
+        </div>
+        <label class="metric-picker">Ordenar por<select id="sort-metric">
+          <option value="dc_inventory_operational_mw">Inventario DC</option>
+          <option value="cloud_regions_active">Regiones cloud</option>
+          <option value="ixps_active">IXPs</option>
+          <option value="internet_resilience_index">Resiliencia Internet</option>
+          <option value="renewable_generation_pct">Renovables</option>
+          <option value="nri_total_2025">Network Readiness</option>
+        </select></label>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>País</th><th>Mercado</th><th>MW DC</th><th>Cloud</th><th>IXPs</th><th>Resiliencia</th><th>Renovables</th><th>NRI</th></tr></thead>
+          <tbody id="benchmark-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="method-note">
+      <div>
+        <div class="section-label">METODOLOGÍA</div>
+        <h2>Comparar sin inventar.</h2>
+      </div>
+      <div>
+        <p>El observatorio mantiene separadas las categorías de infraestructura, conserva los datos faltantes y utiliza indicadores comparables solo cuando la definición es suficientemente homogénea.</p>
+        <a href="https://github.com/selguetagodoy/latin-america-digital-infrastructure/blob/main/docs/methodology.md">Leer metodología →</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-grid">
+      <div><strong>Latin America Digital Infrastructure</strong><br><span>Open research observatory</span></div>
+      <div>Sebastian Elgueta Godoy · 2026</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
