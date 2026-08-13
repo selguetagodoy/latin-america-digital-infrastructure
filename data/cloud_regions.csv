@@ -9,3 +9,10 @@ Microsoft Azure,Brazil,Sao Paulo,brazilsouth,available,cloud_region,azure:region
 Microsoft Azure,Brazil,Rio de Janeiro,brazilsoutheast,restricted,cloud_region,azure:regions-list,2026-08-13
 Microsoft Azure,Chile,Santiago,chilecentral,available,cloud_region,azure:regions-list,2026-08-13
 Microsoft Azure,Mexico,Queretaro,mexicocentral,available,cloud_region,azure:regions-list,2026-08-13
+Oracle Cloud,Brazil,Sao Paulo,sa-saopaulo-1,available,cloud_region,oracle:regions,2026-08-13
+Oracle Cloud,Brazil,Vinhedo,sa-vinhedo-1,available,cloud_region,oracle:regions,2026-08-13
+Oracle Cloud,Chile,Santiago,sa-santiago-1,available,cloud_region,oracle:regions,2026-08-13
+Oracle Cloud,Chile,Valparaiso,sa-valparaiso-1,available,cloud_region,oracle:regions,2026-08-13
+Oracle Cloud,Colombia,Bogota,sa-bogota-1,available,cloud_region,oracle:regions,2026-08-13
+Oracle Cloud,Mexico,Queretaro,mx-queretaro-1,available,cloud_region,oracle:regions,2026-08-13
+Oracle Cloud,Mexico,Monterrey,mx-monterrey-1,available,cloud_region,oracle:regions,2026-08-13
