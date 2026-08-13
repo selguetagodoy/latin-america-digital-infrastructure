@@ -1,0 +1,11 @@
+provider,country,metro,provider_code,status,service_type,source_ref,verified_on
+AWS,Brazil,Sao Paulo,sa-east-1,available,cloud_region,aws:regions,2026-08-13
+AWS,Mexico,Mexico Central,mx-central-1,available,cloud_region,aws:regions,2026-08-13
+AWS,Chile,,TBD,announced,cloud_region,aws:global-infrastructure,2026-08-13
+Google Cloud,Brazil,Sao Paulo,southamerica-east1,available,cloud_region,gcp:regions,2026-08-13
+Google Cloud,Chile,Santiago,southamerica-west1,available,cloud_region,gcp:regions,2026-08-13
+Google Cloud,Mexico,Queretaro,northamerica-south1,available,cloud_region,gcp:regions,2026-08-13
+Microsoft Azure,Brazil,Sao Paulo,brazilsouth,available,cloud_region,azure:regions-list,2026-08-13
+Microsoft Azure,Brazil,Rio de Janeiro,brazilsoutheast,restricted,cloud_region,azure:regions-list,2026-08-13
+Microsoft Azure,Chile,Santiago,chilecentral,available,cloud_region,azure:regions-list,2026-08-13
+Microsoft Azure,Mexico,Queretaro,mexicocentral,available,cloud_region,azure:regions-list,2026-08-13
