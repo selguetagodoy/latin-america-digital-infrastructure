@@ -1,0 +1,25 @@
+provider,country,markets,presence_type,source_ref,verified_on
+Equinix,Brazil,Sao Paulo; Rio de Janeiro,colocation / interconnection,equinix:latam,2026-08-13
+Equinix,Chile,Santiago,colocation / interconnection,equinix:latam,2026-08-13
+Equinix,Colombia,Bogota,colocation / interconnection,equinix:latam,2026-08-13
+Equinix,Mexico,Queretaro; Monterrey,colocation / interconnection,equinix:latam,2026-08-13
+Equinix,Peru,Lima,colocation / interconnection,equinix:latam,2026-08-13
+Ascenty,Brazil,Sao Paulo; Rio de Janeiro; Ceara,colocation / hyperscale-ready,ascenty:locations,2026-08-13
+Ascenty,Chile,Santiago,colocation / hyperscale-ready,ascenty:locations,2026-08-13
+Ascenty,Colombia,Bogota,colocation / hyperscale-ready,ascenty:locations,2026-08-13
+Ascenty,Mexico,Queretaro,colocation / hyperscale-ready,ascenty:locations,2026-08-13
+ODATA,Brazil,Sao Paulo; Rio de Janeiro,colocation / hyperscale-ready,odata:datacenters,2026-08-13
+ODATA,Chile,Santiago,colocation / hyperscale-ready,odata:datacenters,2026-08-13
+ODATA,Colombia,Bogota,colocation / hyperscale-ready,odata:datacenters,2026-08-13
+ODATA,Mexico,Queretaro,colocation / hyperscale-ready,odata:datacenters,2026-08-13
+Scala Data Centers,Brazil,Sao Paulo; Rio de Janeiro; Fortaleza; Porto Alegre,colocation / hyperscale-ready,scala:datacenters,2026-08-13
+Scala Data Centers,Chile,Santiago; Valparaiso,colocation / hyperscale-ready,scala:datacenters,2026-08-13
+Scala Data Centers,Colombia,Bogota,colocation / hyperscale-ready,scala:datacenters,2026-08-13
+Scala Data Centers,Mexico,Queretaro; Mexico State,colocation / hyperscale-ready,scala:datacenters,2026-08-13
+Cirion,Argentina,Buenos Aires,colocation / interconnection,cirion:datacenters,2026-08-13
+Cirion,Brazil,Sao Paulo; Rio de Janeiro; Curitiba,colocation / interconnection,cirion:datacenters,2026-08-13
+Cirion,Chile,Santiago,colocation / interconnection,cirion:datacenters,2026-08-13
+Cirion,Colombia,Bogota,colocation / interconnection,cirion:datacenters,2026-08-13
+Cirion,Peru,Lima,colocation / interconnection,cirion:datacenters,2026-08-13
+GBM,Costa Rica,San Jose / national market,enterprise data center services,gbm:certifications,2026-08-13
+GBM,Panama,Panama City / national market,enterprise data center services,gbm:certifications,2026-08-13
