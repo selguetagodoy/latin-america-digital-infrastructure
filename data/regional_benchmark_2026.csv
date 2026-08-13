@@ -1,0 +1,9 @@
+country,iso3,anchor_market,benchmark_role,dc_inventory_operational_mw,dc_vacancy_pct,dc_absorption_net_mw,dc_rent_min_usd_kw_month,dc_rent_max_usd_kw_month,cloud_regions_active,cloud_regions_announced,ixps_active,ixp_members,domestic_network_coverage_at_ixp_pct,local_content_cache_pct,internet_resilience_index,business_electricity_usd_mwh,renewable_generation_pct,carbon_intensity_gco2e_kwh,standard_grid_connection_days,corporate_income_tax_pct,wjp_rule_of_law_score,nri_total_2025,nri_rank_2025,cybersecurity_itu_tier,rtt_physical_miami_ms,rtt_physical_sao_paulo_ms,verified_cutoff
+Colombia,COL,Bogotá,País objetivo,44.3,18.7,1.1,150,230,1,0,7,117,72,58,57,258,77,187,88,35,0.47,49.67,63,Tier 3,31.59,56.26,2026-08-13
+Brasil,BRA,São Paulo,Líder regional por escala,536.7,9.6,39.2,130,190,6,0,51,2478,87,76,67,159,87,110,128.49,34,0.5,53.64,51,Tier 1,85.36,0.0,2026-08-13
+México,MEX,Querétaro,Líder regional por crecimiento hyperscale,298.2,10.6,213,250,270,5,0,7,87,40,41,51,235,23.09,474,100.44,30,0.4,48.29,67,Tier 2,27.83,98.99,2026-08-13
+Chile,CHL,Santiago,Referencia regional de conectividad y energía,165.8,3.3,17.4,190,210,4,1,8,181,87,71,64,209,66,289,43,27,0.66,51.87,57,Tier 3,86.59,33.61,2026-08-13
+Perú,PER,Lima,Mercado andino comparable,,,,,,0,0,12,132,78,47,61,165,64,238,67,29.5,0.48,45.24,80,Tier 3,54.83,44.91,2026-08-13
+Panamá,PAN,Ciudad de Panamá,Hub logístico y de conectividad,,,,,,0,0,2,32,67,30,50,222,68,221,35,25,0.52,43.82,83,Tier 3,24.27,66.11,2026-08-13
+Costa Rica,CRI,San José,Referencia institucional y de servicios,,,,,,0,0,1,44,84,38,60,255,100,,39,30,0.67,54.76,42,Tier 3,23.5,71.72,2026-08-13
+Argentina,ARG,Buenos Aires,Mercado regional de escala,,,,,,0,0,4,400,81,67,59,93,34.58,346,92,35,0.54,48.14,68,Tier 4,92.23,21.77,2026-08-13
