@@ -1,0 +1,19 @@
+name: Data checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Benchmark summary
+        run: python scripts/benchmark_summary.py
+      - name: Coverage summary
+        run: python scripts/coverage_summary.py
