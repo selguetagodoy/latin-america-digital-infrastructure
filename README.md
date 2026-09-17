@@ -56,9 +56,9 @@ The public release is intentionally analytical rather than a directory of indivi
 
 ## Author
 
-Sebastian Elgueta Godoy
+**[Sebastián Elgueta Godoy](https://github.com/selguetagodoy)** — sociologist and public affairs professional working on public policy, telecommunications, data centers, digital infrastructure, connectivity and comparative analysis in Latin America.
 
-Sociology, public policy, telecommunications and digital infrastructure.
+Professional profile: [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
 
 ## License
 
