@@ -4,7 +4,23 @@ title: "Latin America Digital Infrastructure"
 type: dataset
 authors:
   - family-names: "Elgueta Godoy"
-    given-names: "Sebastian"
+    given-names: "Sebastián"
 repository-code: "https://github.com/selguetagodoy/latin-america-digital-infrastructure"
+url: "https://selguetagodoy.github.io/latin-america-digital-infrastructure/"
 license: MIT
 date-released: 2026-08-13
+abstract: >-
+  Public, source-backed comparative observatory of digital infrastructure in Latin America,
+  covering data centers, cloud regions, Internet exchange points, submarine connectivity,
+  energy and institutional conditions across eight benchmark markets.
+keywords:
+  - data centers
+  - digital infrastructure
+  - Latin America
+  - telecommunications
+  - connectivity
+  - cloud regions
+  - internet exchange points
+  - open data
+  - public policy
+  - energy
