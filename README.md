@@ -1,5 +1,8 @@
 # Latin America Digital Infrastructure
 
+**Public dataset landing page:** https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html  
+**Author profile:** https://selguetagodoy.github.io/
+
 Public, source-backed observatory for comparing digital infrastructure across Latin America.
 
 The current release covers eight benchmark markets — Argentina, Brazil, Chile, Colombia, Costa Rica, Mexico, Panama and Peru — and combines country indicators with separate datasets for cloud, Internet exchange, submarine connectivity and operator market presence.
