@@ -11,3 +11,4 @@
 "SRC-SENADO","Senado de Chile","Sitio institucional","https://www.senado.cl/","órgano legislativo","2026-09-19"
 "SRC-CAMARA","Cámara de Diputadas y Diputados","Sitio institucional","https://www.camara.cl/","órgano legislativo","2026-09-19"
 "SRC-PJUD","Poder Judicial de Chile","Sitio institucional","https://www.pjud.cl/","órganos superiores judiciales","2026-09-19"
+"SRC-CHILEHUB","cortega26/chile-hub","Normalized communes catalogue","https://github.com/cortega26/chile-hub/blob/main/data/normalized/comunas.json","Structured seed for municipality names and CUT codes; official municipality universe cross-checked with SUBDERE","2026-09-19"
