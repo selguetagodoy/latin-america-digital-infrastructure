@@ -40,6 +40,12 @@ Start with:
 - `site/` — static observatory website prepared for publication
 - `CHANGELOG.md` — release history
 
+## Public affairs data
+
+### [Chile State Institutional Map](public-affairs/chile-state-institutional-map/)
+
+Machine-readable institutional map of the Chilean State for **public affairs, public policy, regulatory analysis and stakeholder mapping**. The current structural release contains 660 records, including all 25 ministries, the 162 public-service entries published by Gob.cl, 40 subsecretariats, 345 municipalities, 16 regional governments, 16 Presidential Regional Delegations and 40 Presidential Provincial Delegations, with explicit source and coverage controls.
+
 ## Reproducibility
 
 Run:
