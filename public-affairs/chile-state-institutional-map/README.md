@@ -22,8 +22,9 @@ This first structural release builds a machine-readable institutional spine of t
 - **18 State universities**
 - **15 State Technical Training Centers (CFT Estatales)**
 - **28 public enterprises listed by DIPRES**
+- **70 Public Education Local Services (SLEP)** from the complete statutory universe
 
-The master table currently contains **779 records**.
+The master table currently contains **849 records**.
 
 ## Why two layers are used
 
@@ -48,6 +49,7 @@ This avoids silently replacing, merging or reclassifying institutions.
 - `data/state_universities.csv` — 18 State universities
 - `data/state_cfts.csv` — 15 State Technical Training Centers
 - `data/public_enterprises_dipres.csv` — current DIPRES public-enterprise directory snapshot
+- `data/sleps.csv` — complete statutory universe of 70 SLEP
 - `data/coverage_audit.csv` — coverage control against official universes
 - `sources.csv` — source register
 - `docs/data_dictionary.md` — field definitions
