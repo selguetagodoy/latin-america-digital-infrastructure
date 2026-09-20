@@ -1,7 +1,7 @@
 "layer","official_universe","records_in_release","status","benchmark_source","note"
 "Ministerios","25","25","complete","Gob.cl","Cobertura íntegra del directorio ministerial vigente."
 "Servicios públicos / reparticiones del directorio Gob.cl","162","162","complete_as_published","Gob.cl","Transcripción íntegra; se mantiene además una capa suplementaria para cambios no reflejados o nomenclaturas heredadas."
-"Municipalidades","345","345","complete","SUBDERE/SINIM","Antártica es la única comuna sin municipalidad propia."
+"Municipalidades","345","345","complete_with_provenance_note","SUBDERE/SINIM + chile-hub structured seed","Universo oficial 345; nombres y CUT sembrados desde catálogo normalizado abierto. Antártica no tiene municipalidad propia."
 "Gobiernos Regionales","16","16","complete","Ley 19.175 / estructura territorial","Una fila por región."
 "Delegaciones Presidenciales Regionales","16","16","complete","Servicio de Gobierno Interior","Una por región."
 "Delegaciones Presidenciales Provinciales","40","40","complete","Servicio de Gobierno Interior","No existe DPP separada en la provincia asiento de la capital regional."
