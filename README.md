@@ -44,7 +44,7 @@ Start with:
 
 ### [Chile State Institutional Map](public-affairs/chile-state-institutional-map/)
 
-Machine-readable institutional map of the Chilean State for **public affairs, public policy, regulatory analysis and stakeholder mapping**. The current structural release contains 779 records, including all 25 ministries, the 162 public-service entries published by Gob.cl, 40 subsecretariats, 345 municipalities, 16 regional governments, 16 Presidential Regional Delegations and 40 Presidential Provincial Delegations, with explicit source and coverage controls. The expanded institutional perimeter also includes legislative commissions, 18 State universities, 15 State Technical Training Centers and the public-enterprise directory maintained by DIPRES.
+Machine-readable institutional map of the Chilean State for **public affairs, public policy, regulatory analysis and stakeholder mapping**. The current structural release contains 849 records, including all 25 ministries, the 162 public-service entries published by Gob.cl, 40 subsecretariats, 345 municipalities, 16 regional governments, 16 Presidential Regional Delegations and 40 Presidential Provincial Delegations, with explicit source and coverage controls. The expanded institutional perimeter also includes legislative commissions, 18 State universities, 15 State Technical Training Centers and the public-enterprise directory maintained by DIPRES, plus the complete statutory universe of 70 SLEP.
 
 ## Reproducibility
 
