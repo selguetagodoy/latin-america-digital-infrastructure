@@ -32,3 +32,5 @@ Controls whether a layer is complete against a known official universe. A blank 
 - `state_universities.csv`: stable ID, official name, acronym, primary territorial reference, source and verification date.
 - `state_cfts.csv`: stable ID, official name, region, main location, source and verification date.
 - `public_enterprises_dipres.csv`: stable ID, source-published name, acronym, DIPRES directory provenance and verification date.
+
+- `sleps.csv`: stable ID, legal institution name, short SLEP name, region, legal relationship, primary legal source and verification date.
