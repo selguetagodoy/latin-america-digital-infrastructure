@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.2.0 — 2026-09-19
+
+- Expanded institutional perimeter from 660 to 779 master records.
+- Added 34 current Chamber commission/subcommission entries from the live operational listing.
+- Added 24 Senate permanent legislative commissions.
+- Added all 18 State universities.
+- Added all 15 State Technical Training Centers.
+- Added the 28 public enterprises currently listed in DIPRES's public-enterprise directory.
+- Documented source discrepancies instead of normalizing them silently.
+- Expanded automated coverage checks.
+
 ## v0.1.0 — 2026-09-19
 
 - Created Chile State Institutional Map.
