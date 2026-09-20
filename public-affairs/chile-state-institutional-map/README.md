@@ -30,6 +30,8 @@ A public-affairs dataset cannot treat an official directory as automatically syn
 
 This avoids silently replacing, merging or reclassifying institutions.
 
+**Municipality row-level provenance:** the v0.1 municipality names and CUT codes are seeded from the normalized `cortega26/chile-hub` open catalogue, while the official universe (345 municipalities) and the Antártica exception are cross-checked against SUBDERE. The dataset records both layers explicitly.
+
 ## Files
 
 - `data/institutional_map.csv` — master institutional table
