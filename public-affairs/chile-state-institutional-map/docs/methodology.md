@@ -63,3 +63,17 @@ The schema is ready for:
 - sectoral/regional offices
 - officeholder history with valid-from / valid-to dates
 - competencies, regulatory powers, permitting powers and consultation mechanisms backed by organic law.
+
+## Legislative commission rule
+
+For the Chamber, the dataset follows the live operational commission page as verified on 2026-09-19. That page lists 34 commission/subcommission entries. The institutional FAQ still states 27 permanent commissions, so the discrepancy is preserved as a source note rather than silently reconciled.
+
+For the Senate, the master includes the 24 bodies identified by the Senate as permanent legislative commissions. Internal commissions (Régimen Interior, Revisora de Cuentas, Ética y Transparencia) and the Comisión Especial Mixta de Presupuestos are not counted inside that 24-row legislative subset.
+
+## State higher education
+
+The dataset includes the complete current universes of 18 State universities and 15 State Technical Training Centers. Universities are modeled as autonomous State institutions and are not assigned a hierarchical parent ministry. Sectoral relations to the Ministry of Education are represented separately in the relationship table.
+
+## Public enterprises
+
+The public-enterprise layer uses the current DIPRES Empresas Públicas directory as the operational universe and preserves its names as published. This layer is explicitly distinguished from the SEP portfolio because the two systems have different coverage purposes.
