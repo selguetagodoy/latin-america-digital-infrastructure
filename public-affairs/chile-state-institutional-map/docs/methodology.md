@@ -77,3 +77,7 @@ The dataset includes the complete current universes of 18 State universities and
 ## Public enterprises
 
 The public-enterprise layer uses the current DIPRES Empresas Públicas directory as the operational universe and preserves its names as published. This layer is explicitly distinguished from the SEP portfolio because the two systems have different coverage purposes.
+
+## Public Education Local Services (SLEP)
+
+The dataset includes the full statutory universe of 70 Servicios Locales de Educación Pública established under Law N°21.040. They are modeled as functionally and territorially decentralized public bodies with legal personality and their own assets. Their relationship to the Ministry of Education is represented through the Dirección de Educación Pública. Implementation/transfer status is deliberately kept separate from institutional existence because the rollout changes over time.
