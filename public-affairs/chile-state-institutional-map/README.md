@@ -17,8 +17,13 @@ This first structural release builds a machine-readable institutional spine of t
 - **345 municipalities**
 - top-level Legislative, Judicial and constitutionally autonomous bodies
 - a **2026 supplement layer** for institutions that require current control beyond the general directory, including ANCI, SERMIG, SBAP and CMF
+- **34 current Chamber legislative/internal commission entries** from the live operational page
+- **24 Senate permanent legislative commissions**
+- **18 State universities**
+- **15 State Technical Training Centers (CFT Estatales)**
+- **28 public enterprises listed by DIPRES**
 
-The master table currently contains **660 records**.
+The master table currently contains **779 records**.
 
 ## Why two layers are used
 
@@ -39,6 +44,10 @@ This avoids silently replacing, merging or reclassifying institutions.
 - `data/ministries.csv` — 25 ministries
 - `data/municipalities.csv` — 345 municipalities
 - `data/institutional_relations.csv` — parent/sectoral and territorial relationships
+- `data/legislative_commissions.csv` — Chamber and Senate commission nodes
+- `data/state_universities.csv` — 18 State universities
+- `data/state_cfts.csv` — 15 State Technical Training Centers
+- `data/public_enterprises_dipres.csv` — current DIPRES public-enterprise directory snapshot
 - `data/coverage_audit.csv` — coverage control against official universes
 - `sources.csv` — source register
 - `docs/data_dictionary.md` — field definitions
