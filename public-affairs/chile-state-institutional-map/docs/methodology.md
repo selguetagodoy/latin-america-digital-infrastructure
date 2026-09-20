@@ -22,7 +22,7 @@ This is intentional. Public-affairs analysis needs both:
 
 ## Territorial rules
 
-Chile has 346 communes but 345 municipalities. Antártica is the exception: it has no municipality of its own and is administered in the municipal grouping with Cabo de Hornos. The municipal table therefore contains 345 institutional rows.
+Chile has 346 communes but 345 municipalities. Antártica is the exception: it has no municipality of its own and is administered in the municipal grouping with Cabo de Hornos. The municipal table therefore contains 345 institutional rows. Municipality names and CUT codes in v0.1 use the normalized open-data catalogue from `cortega26/chile-hub` as a structured seed; the official national universe of 345 municipalities and the Antártica exception are cross-checked against SUBDERE. This provenance is recorded explicitly rather than attributing the row-level extraction directly to SUBDERE.
 
 The regional layer contains 16 GOREs and 16 DPRs. The provincial executive layer contains 40 DPPs because, in the province that is the seat of each regional capital, the DPR exercises the provincial functions.
 
