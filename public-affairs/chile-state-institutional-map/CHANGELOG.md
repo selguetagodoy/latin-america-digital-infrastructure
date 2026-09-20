@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.3.0 — 2026-09-19
+
+- Expanded the master from 779 to 849 records.
+- Added all 70 Servicios Locales de Educación Pública (SLEP) as legally distinct decentralized public bodies.
+- Added a dedicated `sleps.csv` table and institutional relationships through the Dirección de Educación Pública.
+- Added coverage and source controls for the statutory SLEP universe.
+
 ## v0.2.0 — 2026-09-19
 
 - Expanded institutional perimeter from 660 to 779 master records.
