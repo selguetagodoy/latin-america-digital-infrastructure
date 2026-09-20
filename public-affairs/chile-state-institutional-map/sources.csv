@@ -12,3 +12,8 @@
 "SRC-CAMARA","Cámara de Diputadas y Diputados","Sitio institucional","https://www.camara.cl/","órgano legislativo","2026-09-19"
 "SRC-PJUD","Poder Judicial de Chile","Sitio institucional","https://www.pjud.cl/","órganos superiores judiciales","2026-09-19"
 "SRC-CHILEHUB","cortega26/chile-hub","Normalized communes catalogue","https://github.com/cortega26/chile-hub/blob/main/data/normalized/comunas.json","Structured seed for municipality names and CUT codes; official municipality universe cross-checked with SUBDERE","2026-09-19"
+"SRC-CAMARA-COMM","Cámara de Diputadas y Diputados de Chile","Comisiones Legislativas","https://www.camara.cl/legislacion/comisiones/comisiones_permanentes.aspx","34 comisiones/subcomisiones listadas en la página operativa vigente","2026-09-19"
+"SRC-SENADO-COMM","Senado de Chile","Comisiones","https://www.senado.cl/actividad-legislativa/comisiones","24 comisiones legislativas permanentes","2026-09-19"
+"SRC-CUECH","Consorcio de Universidades del Estado de Chile","Sistema de 18 universidades estatales","https://www.uestatales.cl/","universidades estatales","2026-09-19"
+"SRC-MINEDUC-CFT","Subsecretaría de Educación Superior","Centros de Formación Técnica Estatales","https://educacionsuperior.mineduc.cl/cft-estatales/","15 CFT estatales y localización","2026-09-19"
+"SRC-DIPRES-EEPP","Dirección de Presupuestos","Empresas Públicas - Antecedentes","https://www.dipres.gob.cl/599/w3-channel.html","28 empresas públicas listadas por DIPRES","2026-09-19"
