@@ -25,3 +25,10 @@
 ## coverage_audit.csv
 
 Controls whether a layer is complete against a known official universe. A blank official universe means that the project intentionally avoids claiming completeness until a stable denominator is established.
+
+## Supplementary institutional tables
+
+- `legislative_commissions.csv`: chamber, source order/number, stable ID, name, class, parent chamber, source and verification note.
+- `state_universities.csv`: stable ID, official name, acronym, primary territorial reference, source and verification date.
+- `state_cfts.csv`: stable ID, official name, region, main location, source and verification date.
+- `public_enterprises_dipres.csv`: stable ID, source-published name, acronym, DIPRES directory provenance and verification date.
