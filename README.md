@@ -1,5 +1,7 @@
 # Latin America Digital Infrastructure
 
+**Latest release:** [v0.2.0](https://github.com/selguetagodoy/latin-america-digital-infrastructure/releases/tag/v0.2.0) · Zenodo integration enabled
+
 **Public dataset landing page:** https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html  
 **Author profile:** https://selguetagodoy.github.io/
 
