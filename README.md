@@ -65,9 +65,9 @@ The public release is intentionally analytical rather than a directory of indivi
 
 ## Author
 
-**[Sebastián Elgueta Godoy](https://selguetagodoy.github.io/latin-america-digital-infrastructure/sebastian-elgueta-godoy.html)** — sociologist and public affairs professional working on public policy, telecommunications, data centers, digital infrastructure, connectivity and comparative analysis in Latin America.
+**[Sebastián Elgueta Godoy](https://selguetagodoy.github.io/)** — sociologist and public affairs professional working on public policy, telecommunications, data centers, digital infrastructure, connectivity and comparative analysis in Latin America.
 
-Profiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
+Profiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Substack](https://substack.com/@sebastianelguetagodoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
 
 ## License
 
