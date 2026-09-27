@@ -38,6 +38,12 @@ Dataset landing page: https://selguetagodoy.github.io/dataset-latin-america-digi
 
 Citation metadata are available in `CITATION.cff`.
 
-## Zenodo readiness
+## Persistent citation
 
-The repository contains citation metadata and a scoped MIT license for repository code. A DOI has not been assigned. If the repository is later connected to Zenodo, archive only an explicit GitHub release and verify the resulting Zenodo metadata before citing a DOI.
+The v0.2.0 release is archived in Zenodo.
+
+- Concept DOI: https://doi.org/10.5281/zenodo.22921174
+- Version DOI: https://doi.org/10.5281/zenodo.22921175
+- Canonical dataset landing: https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html
+
+Use the version DOI when citing the exact v0.2.0 snapshot and the concept DOI when referring to the evolving project across releases.
