@@ -97,6 +97,7 @@ MIT for repository code. Third-party source data remain subject to the terms of 
 - [CITATION.cff](CITATION.cff) — GitHub/academic citation metadata
 - [CITATION.bib](CITATION.bib) — BibTeX citation
 - [codemeta.json](codemeta.json) — machine-readable research metadata
+- [ro-crate-metadata.json](ro-crate-metadata.json) — RO-Crate 1.2 research object metadata
 - [datapackage.json](datapackage.json) — machine-readable public data resources
 - [PUBLIC_RESOURCES.md](PUBLIC_RESOURCES.md) — human-readable index of declared public resources
 - [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
