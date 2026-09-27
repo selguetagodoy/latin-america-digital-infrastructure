@@ -1,0 +1,69 @@
+{
+  "profile": "data-package",
+  "name": "latin-america-digital-infrastructure",
+  "title": "Latin America Digital Infrastructure",
+  "description": "Comparative public data package on digital infrastructure across eight Latin American benchmark markets.",
+  "version": "0.2.0",
+  "homepage": "https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html",
+  "contributors": [
+    {
+      "title": "Sebastián Elgueta Godoy",
+      "role": "author",
+      "path": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "citation": {
+    "concept_doi": "https://doi.org/10.5281/zenodo.22921174",
+    "version_doi": "https://doi.org/10.5281/zenodo.22921175"
+  },
+  "resources": [
+    {
+      "name": "regional-benchmark-2026",
+      "path": "data/regional_benchmark_2026.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "metric-source-ledger",
+      "path": "data/metric_source_ledger.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "countries",
+      "path": "data/countries.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "cloud-regions",
+      "path": "data/cloud_regions.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "ixps",
+      "path": "data/ixps.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "submarine-cables",
+      "path": "data/submarine_cables.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "operator-country-presence",
+      "path": "data/operator_country_presence.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "sources",
+      "path": "sources.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}
