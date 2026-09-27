@@ -87,6 +87,14 @@ Profiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.li
 
 MIT for repository code. Third-party source data remain subject to the terms of their original publishers.
 
+
+## Citation and metadata
+
+- [CITATION.cff](CITATION.cff) — GitHub/academic citation metadata
+- [CITATION.bib](CITATION.bib) — BibTeX citation
+- [codemeta.json](codemeta.json) — machine-readable research metadata
+- [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
+
 ## Related research
 
 - [Chile Digital Inclusion](https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html) — territorial connectivity and digital inclusion in Chile.
