@@ -73,7 +73,7 @@ The public release is intentionally analytical rather than a directory of indivi
 
 The canonical evidence hierarchy is documented in [SOURCE_OF_TRUTH.md](SOURCE_OF_TRUTH.md). The new [sources.csv](sources.csv) maps the explicit `source_ref` families used by the cloud-region, IXP, submarine-cable and operator-presence layers to public source URLs. Those URLs are checked automatically every week.
 
-**Current lineage boundary:** `data/regional_benchmark_2026.csv` is a broader 27-variable harmonized table and does not yet expose row-by-row URL lineage for every metric. The repository therefore does not claim complete observation-level provenance for that file until a dedicated metric ledger is added.
+**Current lineage status:** `data/metric_source_ledger.csv` now maps every column in `data/regional_benchmark_2026.csv` to an external source family, project metadata, or a reproducible derived transformation. This is complete **metric-level provenance**. The harmonized CSV still does not embed a separate source URL in every individual cell; detailed infrastructure tables retain row-level `source_ref` values where available.
 
 ## Author
 
