@@ -1,0 +1,45 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Latin America Digital Infrastructure",
+  "description": "Source-backed comparative dataset and observatory on data centers, cloud regions, Internet exchange points, submarine connectivity, energy and institutional conditions across eight Latin American benchmark markets.",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sebastián",
+      "familyName": "Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Sebastián",
+      "familyName": "Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "datePublished": "2026",
+  "version": "0.2.0",
+  "identifier": "https://doi.org/10.5281/zenodo.22921175",
+  "url": "https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html",
+  "codeRepository": "https://github.com/selguetagodoy/latin-america-digital-infrastructure",
+  "relatedLink": [
+    "https://selguetagodoy.github.io/latin-america-digital-infrastructure/",
+    "https://selguetagodoy.github.io/infraestructura-digital.html",
+    "https://doi.org/10.5281/zenodo.22921175"
+  ],
+  "keywords": [
+    "data centers",
+    "digital infrastructure",
+    "Latin America",
+    "cloud regions",
+    "internet exchange points",
+    "submarine cables",
+    "energy",
+    "telecommunications",
+    "public policy",
+    "benchmark"
+  ],
+  "inLanguage": "en"
+}
