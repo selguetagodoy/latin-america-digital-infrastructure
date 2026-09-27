@@ -21,49 +21,65 @@
       "name": "regional-benchmark-2026",
       "path": "data/regional_benchmark_2026.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 1794,
+      "git_blob_sha": "d4d6d9898d767481d9370b8788438f09182f4388"
     },
     {
       "name": "metric-source-ledger",
       "path": "data/metric_source_ledger.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 3607,
+      "git_blob_sha": "10f66eb8dc9fa7be843e6961cdeaddeda8312752"
     },
     {
       "name": "countries",
       "path": "data/countries.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 559,
+      "git_blob_sha": "5f1725563f5cbfd2b079d4f5aec6892b06a8f4d7"
     },
     {
       "name": "cloud-regions",
       "path": "data/cloud_regions.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 1651,
+      "git_blob_sha": "f9b84b936355b507180b13894ef6914ea1b9f37e"
     },
     {
       "name": "ixps",
       "path": "data/ixps.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 1600,
+      "git_blob_sha": "c356ddc3ab9aa00a8e16ed2d5b3474ca6fb4b173"
     },
     {
       "name": "submarine-cables",
       "path": "data/submarine_cables.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 1848,
+      "git_blob_sha": "cb72d2c03a215913f053f39efbe966e84a7d0292"
     },
     {
       "name": "operator-country-presence",
       "path": "data/operator_country_presence.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 2259,
+      "git_blob_sha": "a95813f1cbd89e5be6fadd591ad225eb2930c66c"
     },
     {
       "name": "sources",
       "path": "sources.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 4753,
+      "git_blob_sha": "fd6ce16deb957ea70209cb930c529ade811ca716"
     }
   ]
 }
