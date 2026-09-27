@@ -10,9 +10,13 @@ This document defines the evidence hierarchy for **Latin America Digital Infrast
 4. Validation scripts and GitHub Actions.
 5. README, site and charts as presentation layers.
 
-## Important lineage boundary
+## Benchmark lineage
 
-The current `sources.csv` maps the explicit `source_ref` families used in cloud, IXP, submarine-cable and operator-presence tables. The harmonized `data/regional_benchmark_2026.csv` contains a broader 27-variable comparison and **does not yet provide row-by-row URL lineage for every metric**. It must not be described as having complete source-level provenance until that ledger is added.
+`sources.csv` is the canonical URL ledger. `data/metric_source_ledger.csv` maps every column in `data/regional_benchmark_2026.csv` to either an external source family, project metadata or a documented derived transformation.
+
+This provides **metric-level provenance** for the harmonized benchmark. It is not equivalent to embedding a source URL in every individual cell. Detailed infrastructure tables retain their own row-level `source_ref` values where available.
+
+The benchmark is a frozen vintage with `verified_cutoff=2026-08-13`. Live sources such as Internet Society Pulse can change later; those changes must not silently rewrite the historical benchmark.
 
 ## Integrity rules
 
