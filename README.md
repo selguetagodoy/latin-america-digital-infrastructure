@@ -1,5 +1,7 @@
 # Latin America Digital Infrastructure
 
+![Research project header](assets/research-card.svg)
+
 **Latest release:** [v0.2.0](https://github.com/selguetagodoy/latin-america-digital-infrastructure/releases/tag/v0.2.0) · [Concept DOI: 10.5281/zenodo.22921174](https://doi.org/10.5281/zenodo.22921174) · [Version DOI: 10.5281/zenodo.22921175](https://doi.org/10.5281/zenodo.22921175)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921174.svg)](https://doi.org/10.5281/zenodo.22921174)
