@@ -86,3 +86,10 @@ Profiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.li
 ## License
 
 MIT for repository code. Third-party source data remain subject to the terms of their original publishers.
+
+## Related research
+
+- [Chile Digital Inclusion](https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html) — territorial connectivity and digital inclusion in Chile.
+- [Chile State Institutional Map](https://selguetagodoy.github.io/dataset-chile-state-institutional-map.html) — institutional structure for regulatory and public-affairs analysis.
+- [Stakeholder Routes Chile](https://selguetagodoy.github.io/dataset-stakeholder-routes-chile.html) — decision routes for regulation and infrastructure projects.
+
