@@ -3,6 +3,7 @@
 **Latest release:** [v0.2.0](https://github.com/selguetagodoy/latin-america-digital-infrastructure/releases/tag/v0.2.0) · [Concept DOI: 10.5281/zenodo.22921174](https://doi.org/10.5281/zenodo.22921174) · [Version DOI: 10.5281/zenodo.22921175](https://doi.org/10.5281/zenodo.22921175)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921174.svg)](https://doi.org/10.5281/zenodo.22921174)
+[![Source URL Liveness](https://github.com/selguetagodoy/latin-america-digital-infrastructure/actions/workflows/source-urls.yml/badge.svg)](https://github.com/selguetagodoy/latin-america-digital-infrastructure/actions/workflows/source-urls.yml) [![Data checks](https://github.com/selguetagodoy/latin-america-digital-infrastructure/actions/workflows/data-check.yml/badge.svg)](https://github.com/selguetagodoy/latin-america-digital-infrastructure/actions/workflows/data-check.yml)
 
 **Public dataset landing page:** https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html  
 **Author profile:** https://selguetagodoy.github.io/
@@ -67,6 +68,12 @@ GitHub Actions runs the same checks on pushes and pull requests.
 The repository keeps infrastructure categories separate, uses harmonized comparisons only when definitions are sufficiently comparable, preserves missing values instead of estimating them, and distinguishes operational from announced infrastructure.
 
 The public release is intentionally analytical rather than a directory of individual facilities.
+
+## Provenance and QA
+
+The canonical evidence hierarchy is documented in [SOURCE_OF_TRUTH.md](SOURCE_OF_TRUTH.md). The new [sources.csv](sources.csv) maps the explicit `source_ref` families used by the cloud-region, IXP, submarine-cable and operator-presence layers to public source URLs. Those URLs are checked automatically every week.
+
+**Current lineage boundary:** `data/regional_benchmark_2026.csv` is a broader 27-variable harmonized table and does not yet expose row-by-row URL lineage for every metric. The repository therefore does not claim complete observation-level provenance for that file until a dedicated metric ledger is added.
 
 ## Author
 
