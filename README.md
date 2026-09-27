@@ -6,6 +6,7 @@
 
 **Public dataset landing page:** https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html  
 **Author profile:** https://selguetagodoy.github.io/
+**Thematic analysis:** [Data centers e infraestructura digital en Chile](https://selguetagodoy.github.io/infraestructura-digital.html)
 
 Public, source-backed observatory for comparing digital infrastructure across Latin America.
 
