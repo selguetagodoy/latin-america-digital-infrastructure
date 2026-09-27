@@ -1,0 +1,13 @@
+source_id,publisher,title,url,applies_to,last_checked,notes
+aws_regions,Amazon Web Services,AWS Global Infrastructure Regions and Availability Zones,https://aws.amazon.com/about-aws/global-infrastructure/regions_az/,cloud_regions.csv,2026-09-27,"Maps aws:regions and aws:global-infrastructure source_ref families"
+gcp_regions,Google Cloud,Cloud locations,https://cloud.google.com/about/locations,cloud_regions.csv,2026-09-27,"Maps gcp:regions"
+azure_regions,Microsoft Azure,Global infrastructure geographies,https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/,cloud_regions.csv,2026-09-27,"Maps azure:regions-list"
+oracle_regions,Oracle,Public Cloud Regions,https://www.oracle.com/cloud/public-cloud-regions/,cloud_regions.csv,2026-09-27,"Maps oracle:regions"
+peeringdb_ix,PeeringDB,PeeringDB API — Internet Exchanges,https://www.peeringdb.com/apidocs/,ixps.csv,2026-09-27,"Individual rows retain PeeringDB ix IDs in source_ref"
+telegeography_cables,TeleGeography,Submarine Cable Map,https://www.submarinecablemap.com/,submarine_cables.csv,2026-09-27,"Individual cables retain telegeography:* source_ref"
+equinix_latam,Equinix,Americas data center colocation and interconnection,https://www.equinix.com/data-centers/americas-colocation,operator_country_presence.csv,2026-09-27,"Maps equinix:latam"
+ascenty_locations,Ascenty,Data Center locations,https://ascenty.com/en/data-centers-en/,operator_country_presence.csv,2026-09-27,"Maps ascenty:locations"
+odata_locations,ODATA,Data Centers in Latin America,https://odatadc.com/es/lugares/,operator_country_presence.csv,2026-09-27,"Maps odata:datacenters"
+scala_locations,Scala Data Centers,Data Centers,https://scaladatacenters.com/en/data-centers-en/,operator_country_presence.csv,2026-09-27,"Maps scala:datacenters"
+cirion_locations,Cirion Technologies,Our Data Centers,https://www.ciriontechnologies.com/es/data-center/nuestros-data-centers/,operator_country_presence.csv,2026-09-27,"Maps cirion:datacenters"
+gbm_certifications,GBM,Awards and certifications,https://www.gbm.net/nosotros/premios-y-certificaciones/,operator_country_presence.csv,2026-09-27,"Maps gbm:certifications"
