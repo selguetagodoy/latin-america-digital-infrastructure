@@ -95,6 +95,7 @@ MIT for repository code. Third-party source data remain subject to the terms of 
 - [codemeta.json](codemeta.json) — machine-readable research metadata
 - [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
 - [CHANGELOG.md](CHANGELOG.md) — version history and documented changes
+- [CONTRIBUTING.md](CONTRIBUTING.md) — evidence requirements for corrections and updates
 
 ## Related research
 
