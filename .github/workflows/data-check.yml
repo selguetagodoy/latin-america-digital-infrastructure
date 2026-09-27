@@ -9,11 +9,15 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
-          python-version: '3.12'
+          python-version: '3.13'
       - name: Benchmark summary
         run: python scripts/benchmark_summary.py
       - name: Coverage summary
         run: python scripts/coverage_summary.py
+      - name: Metric source lineage
+        run: python scripts/check_metric_lineage.py
+      - name: Physical RTT reproducibility
+        run: python scripts/derive_physical_rtt.py
