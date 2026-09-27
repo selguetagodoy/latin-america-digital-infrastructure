@@ -19,6 +19,14 @@ Key field groups:
 - geography — physical-distance latency proxies to Miami and São Paulo
 - versioning — `verified_cutoff`
 
+Metric-level provenance for every column is documented in [`data/metric_source_ledger.csv`](../data/metric_source_ledger.csv). Source URLs are registered in [`sources.csv`](../sources.csv).
+
+### Important field qualifications
+
+- `standard_grid_connection_days` is the World Bank Doing Business historical "Getting Electricity" time indicator (latest data collection May 2019 / DB2020). It is a legacy cross-country proxy and **must not be interpreted as current data-center time-to-power**.
+- `business_electricity_usd_mwh` converts the retained business tariff comparison from USD/kWh to USD/MWh; it is not a wholesale power price or a hyperscale PPA.
+- `rtt_physical_miami_ms` and `rtt_physical_sao_paulo_ms` are modeled physical proxies, not measured network latency. They are reproduced and validated by `scripts/derive_physical_rtt.py`.
+
 ## `data/cloud_regions.csv`
 
 Provider-defined full cloud regions from AWS, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Status is kept separate so operational, announced and restricted regions are not counted as equivalent.
@@ -35,4 +43,4 @@ Selected submarine cable systems relevant to Latin American connectivity. Cable 
 
 Publicly documented operator presence by country and market. This file is deliberately market-level and is not intended to be a facility directory.
 
-Last updated: 2026-08-13.
+Last updated: 2026-09-27.
